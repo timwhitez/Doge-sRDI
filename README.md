@@ -11,7 +11,7 @@ srdi.exe [dllName] [Args(not necessary)] [entryPoint(not necessary)]
 ```
 PS D:\> .\srdi.exe .\Outflank-PsC.dll
 Outflank-PsC.bin
-PS D:\> .\main.exe .\Outflank-PsC.bin 1
+PS D:\> .\loader.exe .\Outflank-PsC.bin 1
 Mess with the banana, die like the... banana?
 
 --------------------------------------------------------------------
