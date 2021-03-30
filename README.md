@@ -6,6 +6,8 @@ Shellcode implementation of Reflective DLL Injection by Golang. Convert DLLs to 
 
 [ShellcodeRDI.go](https://gist.github.com/leoloobeek/c726719d25d7e7953d4121bd93dd2ed3)
 
+[sRDI raw project](https://github.com/monoxgas/sRDI)
+
 ## Usage
 srdi.exe [dllName] [Args(not necessary)] [entryPoint(not necessary)]
 ```
